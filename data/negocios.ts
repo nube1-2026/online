@@ -15,19 +15,26 @@ export const negocios: Negocio[] = [
     etiquetas: ["hamburguesas", "delivery", "comida rápida"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Reforma 123",
       mapa:""
+=======
+      direccion: "Av. Reforma 123"
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
     },
     contacto: {
       telefono: "5512345678",
       whatsapp: "5512345678",
       sitio: "https://burgermax.com"
     },
+<<<<<<< HEAD
     redessociales: {
       facebook: "",
       instagram: "",
       massenger: ""
     },
+=======
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
     horario: { abre: "10:00", cierra: "23:00" },
     destacado: true
   },
@@ -44,6 +51,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["tacos", "mexicano", "pastor"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Calle Juárez 88",
       mapa:""
     },
@@ -56,6 +64,13 @@ export const negocios: Negocio[] = [
     },
   },
    
+=======
+      direccion: "Calle Juárez 88"
+    },
+    contacto: { telefono: "5598765432" },
+    horario: { abre: "12:00", cierra: "02:00" }
+  },
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   {
     id: "3",
     nombre: "Pizza Flash",
@@ -69,6 +84,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["pizza", "italiano", "delivery"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Insurgentes 456",
       mapa:""
     },
@@ -81,6 +97,14 @@ export const negocios: Negocio[] = [
     },
   },
  
+=======
+      direccion: "Av. Insurgentes 456"
+    },
+    contacto: { whatsapp: "5511122233" },
+    horario: { abre: "11:00", cierra: "23:00" }
+  },
+
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   // ================= ENTRETENIMIENTO =================
   {
     id: "4",
@@ -95,6 +119,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["cine", "películas", "4D"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Centro Comercial Plaza Norte",
       mapa:""
     },
@@ -106,6 +131,13 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Centro Comercial Plaza Norte"
+    },
+    contacto: { sitio: "https://cinestar.com" },
+    horario: { abre: "10:00", cierra: "01:00" },
+    destacado: true
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "5",
@@ -120,6 +152,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["arcade", "videojuegos"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Central 22",
       mapa:""
     },
@@ -131,6 +164,12 @@ export const negocios: Negocio[] = [
       massenger: ""
     },
 
+=======
+      direccion: "Av. Central 22"
+    },
+    contacto: { telefono: "5544444444" },
+    horario: { abre: "12:00", cierra: "00:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "6",
@@ -145,6 +184,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["karaoke", "bar", "fiesta"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Zona Rosa 99",
       mapa:""
     },
@@ -155,6 +195,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Zona Rosa 99"
+    },
+    contacto: { telefono: "5533333333" },
+    horario: { abre: "18:00", cierra: "03:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
 
   // ================= RESTAURANTES =================
@@ -171,6 +217,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["italiano", "pasta", "vino"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Polanco 45",
       mapa:""
     },
@@ -182,6 +229,13 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Polanco 45"
+    },
+    contacto: { sitio: "https://latoscana.com" },
+    horario: { abre: "13:00", cierra: "23:00" },
+    destacado: true
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "8",
@@ -196,6 +250,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["sushi", "japonés"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Asia 12",
       mapa:""
     },
@@ -206,6 +261,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Av. Asia 12"
+    },
+    contacto: { telefono: "5510101010" },
+    horario: { abre: "12:00", cierra: "22:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "9",
@@ -220,6 +281,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["carne", "parrilla", "argentino"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Sur 300",
       mapa:""
     },
@@ -230,6 +292,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Av. Sur 300"
+    },
+    contacto: { telefono: "5522222222" },
+    horario: { abre: "13:00", cierra: "23:30" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
 
   // ================= SERVICIOS =================
@@ -246,6 +314,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["marketing", "seo", "publicidad"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Tech 101",
       mapa:""
     },
@@ -256,6 +325,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Av. Tech 101"
+    },
+    contacto: { correo: "info@digitalpro.com" },
+    horario: { abre: "09:00", cierra: "18:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "11",
@@ -270,6 +345,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["abogados", "legal"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Justicia 77",
       mapa:""
     },
@@ -280,6 +356,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Av. Justicia 77"
+    },
+    contacto: { telefono: "5555555555" },
+    horario: { abre: "09:00", cierra: "17:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "12",
@@ -294,6 +376,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["contabilidad", "finanzas"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Centro Financiero 1",
       mapa:""
     },
@@ -304,6 +387,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Centro Financiero 1"
+    },
+    contacto: { correo: "contacto@finanzasplus.com" },
+    horario: { abre: "09:00", cierra: "18:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
 
   // ================= MANTENIMIENTO =================
@@ -320,6 +409,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["plomería", "hogar"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Col. Roma 12",
       mapa:""
     },
@@ -330,6 +420,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Col. Roma 12"
+    },
+    contacto: { whatsapp: "5599999999" },
+    horario: { abre: "08:00", cierra: "20:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "14",
@@ -344,6 +440,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["reparación", "electrodomésticos"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Técnica 500",
       mapa:""
     },
@@ -354,6 +451,12 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Av. Técnica 500"
+    },
+    contacto: { telefono: "5512340000" },
+    horario: { abre: "09:00", cierra: "19:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   },
   {
     id: "15",
@@ -368,6 +471,7 @@ export const negocios: Negocio[] = [
     etiquetas: ["limpieza", "hogar", "oficina"],
     ubicacion: {
       ciudad: "Ciudad de México",
+<<<<<<< HEAD
       direccion: "Av. Limpio 9",
       mapa:""
     },
@@ -378,5 +482,11 @@ export const negocios: Negocio[] = [
       instagram: "",
       massenger: ""
     },
+=======
+      direccion: "Av. Limpio 9"
+    },
+    contacto: { whatsapp: "5588888888" },
+    horario: { abre: "07:00", cierra: "18:00" }
+>>>>>>> 95728e948178cf45ca139cdf75c2ee2522c18e93
   }
 ];
